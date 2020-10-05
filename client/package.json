@@ -1,0 +1,62 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.5",
+    "@rebass/forms": "^4.0.6",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/jest": "^24.0.0",
+    "@types/node": "^12.0.0",
+    "@types/numeral": "0.0.28",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-leaflet": "^2.5.2",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/rebass": "^4.0.6",
+    "apollo-boost": "^0.4.9",
+    "chart.js": "^2.9.3",
+    "emotion-theming": "^10.0.27",
+    "formik": "^2.1.4",
+    "graphql": "^15.0.0",
+    "ionicons": "^5.0.1",
+    "leaflet": "^1.6.0",
+    "moment": "^2.27.0",
+    "numeral": "^2.0.6",
+    "polished": "^3.6.4",
+    "react": "^16.13.1",
+    "react-chartjs-2": "^2.9.0",
+    "react-data-table-component": "^6.9.3",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.10.0",
+    "react-leaflet": "^2.7.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "rebass": "^4.0.7",
+    "styled-components": "^5.1.1",
+    "typescript": "~3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
